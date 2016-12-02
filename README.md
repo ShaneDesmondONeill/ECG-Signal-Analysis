@@ -1,3 +1,3 @@
 # ECG-Signal-Analysis
 
-This is a matlab program that can be used to process gait anaysis data to determine the degree of nonlinearity of both right and left swing times. The degree of nonlinearity is correllated with a number of conditions such as huntingtons disease (see attached paper).
+This matlab program can process any ECG signal data file from physio.org (or other sources) and obtain a poincare plot, plot the heartrate and plot the heart rate variability of the input signal.
